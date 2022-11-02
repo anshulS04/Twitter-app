@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div id="overall">
       <div id="site">
-       <img id="logo" src={Logo}></img>
+       <img id="logo" src={Logo} alt="logo"></img>
        <h1 id="title">Twitter</h1>
       </div>
         <p className="tabs">Latest</p>
